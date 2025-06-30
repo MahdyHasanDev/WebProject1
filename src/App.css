@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --spacing-mContainer: 1170px; 
+   
+  --font-inter: "Inter", "sans-serif"; 
+  
+  --color-menuC: #181818; 
+  --color-primary: #5956E8; 
+
+
+}
