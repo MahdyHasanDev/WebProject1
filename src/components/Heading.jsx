@@ -1,7 +1,7 @@
 
 const Heading = (props) => {
   return (
-    <h1>{props.text}</h1>
+    <props.as className={props.className}>{props.text}</props.as>
   )
 }
 

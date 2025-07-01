@@ -3,7 +3,8 @@ import './App.css'
 import Banner from './components/Banner'
 
 import Header from './components/layout/Header'
-import Heading from './components/layout/Heading'
+import Service from './components/Service'
+
 
 function App() {
 
@@ -12,8 +13,9 @@ function App() {
    
    <Header/>
    <Banner/>
-  <Heading text={"Hewllow"}/>
-   
+   <Service/>
+  
+
    </>
   )
 }
